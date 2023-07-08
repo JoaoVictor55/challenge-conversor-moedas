@@ -1,1 +1,2 @@
-hello world
+Uma interface: moeda
+atributos: um double que corresponde ao valor da moeda em real se a moeda não for real
